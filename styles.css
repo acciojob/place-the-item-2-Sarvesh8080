@@ -1,5 +1,6 @@
 
 .holder{
+	justify-content:center;
 	display:flex;
 	flex-direction:row;
 	flex-wrap:wrap;
